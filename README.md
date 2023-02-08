@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Olá! Eu sou o Fabricio Lopes 👋
 
 [![Portifólio](https://img.shields.io/website?label=portifolio-fabricio-lopes.netlify.app&styles=for-the-badge&url=https://portifolio-fabricio-lopes.netlify.app/)](https://portifolio-fabricio-lopes.netlify.app/)
