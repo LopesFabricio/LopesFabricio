@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Fabricio Lopes 👋
 
-[![Portifólio](https://img.shields.io/website?label=portifolio-fabricio-lopes.app&styles=for-the-badge&url=https://lopesfabricio.github.io/portifolio/)](https://lopesfabricio.github.io/portifolio/)
+[![Portifólio](https://img.shields.io/website?label=Site do meu portifólio&styles=for-the-badge&url=https://lopesfabricio.github.io/portifolio/)](https://lopesfabricio.github.io/portifolio/)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabricio-lopes-365b43235/)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/loopes__f/)[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5599984560555)
 
